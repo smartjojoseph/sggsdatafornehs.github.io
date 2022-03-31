@@ -194,4 +194,4 @@
  
  
  
- ![我們的榜單](https://sggsdatafornehs.github.io/image/2022330417653.pdf)
+ ![我們的榜單](https://sggsdatafornehs.github.io/image/2022330417653_pages-to-jpg-0001.jpg)
