@@ -194,4 +194,4 @@
  
  
  
- ![我們的榜單](http://www.sggs.hc.edu.tw:8080/news2/data/2022330417653.pdf)
+ ![我們的榜單](https://sggsdatafornehs.github.io/image/2022330417653.pdf)
