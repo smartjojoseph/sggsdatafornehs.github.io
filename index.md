@@ -1,7 +1,11 @@
 # 科學班內容分享空間  
 #### 這是由新竹市曙光女中附設國中部考上111學年度科園實中科學班學生架設的網站  
-#### 歡迎大家都來參考喔!!!  
-
+#### 歡迎大家都來參考喔!!! 
+## 分類
+[1.心得](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
+[2.我們的資源](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
+[3.日常](https://sggsdatafornehs.github.io/#日常)  
+[4.404頁面](https://sggsdatafornehs.github.io/#404%E9%A0%81%E9%9D%A2)    
 ## 心得    
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
 
@@ -18,9 +22,10 @@
  他的頻道:(這部影片是去年(110)考的)    
  <iframe width="1280" height="720" src="https://www.youtube.com/embed/zFZ5jQ0yuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+ ## 我們的日常  
  
   
- ## 404頁面  
+ ## 404頁面   
  [點我:https://sggsdatafornehs.github.io/404.html](https://sggsdatafornehs.github.io/404.html)   
  
  
