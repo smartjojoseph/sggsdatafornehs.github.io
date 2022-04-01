@@ -4,6 +4,7 @@ date: 2022-4-1 14:23:31
 tags: [日常記事]
 ---
 # 2022/4/1日常記事  
+[回前頁](https://sggsdatafornehs.github.io/post/daily/index)
 ### 什麼?今天愚人節?  
 對，所以你剛剛被整了XD  
 (工程組好皮)  
