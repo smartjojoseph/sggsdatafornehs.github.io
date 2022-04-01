@@ -6,7 +6,7 @@
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
 
 ## 我們的資源
- 1.不完整當年數學考題  
+ 1.不完整當年數學考題   
  <iframe src="https://drive.google.com/file/d/1qQbzSE0uyX6ndAfHRlZKoUzIvagkTdTl/preview" width="640" height="480" allow="autoplay"></iframe>
  
  2.神期的物理指定閱讀
