@@ -23,7 +23,7 @@
  <h1><iframe width="1280" height="720" src="https://www.youtube.com/embed/zFZ5jQ0yuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h1>   
  
 <h2 id="我們的日常">我們的日常<a class="anchorjs-link " href="#我們的日常" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>  
- 
+ [點我https://sggsdatafornehs.github.io/post/daily/index](https://sggsdatafornehs.github.io/post/daily/index)
   
 <h2 id="404頁面">404頁面<a class="anchorjs-link " href="#404頁面" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>    
  [點我:https://sggsdatafornehs.github.io/404.html](https://sggsdatafornehs.github.io/404.html)   
