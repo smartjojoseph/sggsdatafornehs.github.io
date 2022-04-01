@@ -4,7 +4,7 @@
 ## 分類
 [1.心得](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
 [2.我們的資源](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
-[3.日常](https://sggsdatafornehs.github.io/#日常)  
+[3.我們的日常](https://sggsdatafornehs.github.io/#我們的日常)  
 [4.404頁面](https://sggsdatafornehs.github.io/#404%E9%A0%81%E9%9D%A2)    
 ## 心得    
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
