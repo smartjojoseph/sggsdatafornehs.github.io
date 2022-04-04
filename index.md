@@ -1,6 +1,14 @@
 # 科學班內容分享空間  
 #### 這是由新竹市曙光女中附設國中部考上111學年度科園實中科學班學生架設的網站  
-#### 歡迎大家都來參考喔!!! 
+#### 歡迎大家都來參考喔!!!  
+點擊數  
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7969854&style=0024&nbdigits=7&type=page&initCount=60" title="Free Counter" Alt="web counter"   border="0" /></a>                                       
+                                    
+                                        
+                                          
+                            
 ## 分類
 [1.心得](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
 [2.我們的資源](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
