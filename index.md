@@ -45,7 +45,7 @@
  [點我:https://sggsdatafornehs.github.io/404.html](https://sggsdatafornehs.github.io/404.html)   
  <h2 id="講解和教學區">講解和教學區<a class="anchorjs-link " href="#講解和教學區" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>    
  數學、物理、化學、資訊放的地方  
- [點我:https://sggsdatafornehs.github.io/post/sources/info/index](https://sggsdatafornehs.github.io/post/sources/info/index)  
+ [點我:https://sggsdatafornehs.github.io/post/sources/](https://sggsdatafornehs.github.io/post/sources/)  
 
  <script> 
  ! function() {
