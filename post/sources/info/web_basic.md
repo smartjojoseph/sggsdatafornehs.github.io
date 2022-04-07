@@ -11,7 +11,7 @@ tags: [資訊, 網頁]
 然後一定要加副檔名像是:index.html、main.md    
 資訊學習很吃觀察力的ww  
 ## html的部分  
-先來講講html網頁架構 (不想看的直接去[markdown的部分](/#markdown的部分)，但不建議這樣做)  
+先來講講html網頁架構 (不想看的直接去[markdown的部分](https://sggsdatafornehs.github.io/post/sources/info/web_basic#markdown%E7%9A%84%E9%83%A8%E5%88%86)，但不建議這樣做)  
 點開網頁，在電腦上按下ctrl+u你會看到一串像火星文的東西  
 現在就來帶你認識火星文的"文法"(?)吧!  
 (不要把原始碼(你剛剛ctrl+u)叫出來的東西關掉，麻煩對照著看)  
