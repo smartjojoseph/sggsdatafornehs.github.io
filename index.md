@@ -9,12 +9,12 @@
       <strong></strong> <b><font color="red">最新消息:</font></b><a href="https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index">我們的心得</a>全數上線囉！ 
     </div>    
 ...分隔線...  
-    <div class="alert alert-info " role="aler">
+    <div >  
       <button type="button" class="close" data-dismiss="alert">
         <span aria-hidden="true">×</span>
         <span class="sr-only">Close</span>
       </button>
-      <strong></strong> <b><font color="red">最新消息:</font></b><a href="https://sggsdatafornehs.github.io/post/sources/">講解和教學區</a>上架囉！ 
+      <strong></strong> <b><font color="red">最新消息:</font></b><a href="https://sggsdatafornehs.github.io/post/sources/">講解和教學區</a>上架囉！   
     </div>   
 點擊數  
 <!-- hitwebcounter Code START -->
