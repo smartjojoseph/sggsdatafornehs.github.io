@@ -5,7 +5,7 @@ tags: [資訊, 網頁]
 ---
 # 超基礎網頁編排教學  
 [回前頁](https://sggsdatafornehs.github.io/post/sources/info/)
-#### 給其他作者和下一屆學弟妹用的  
+#### 給其他作者和下一屆學弟妹用的筆記   
 ## 網頁架構  
 跟電腦資料夾一樣，以/代表進到某個資料夾，觀察一夏我們的github檔案規則和其他網址就大概懂了  
 然後一定要加副檔名像是:index.html、main.md    
