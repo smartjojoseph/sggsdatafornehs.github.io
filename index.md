@@ -21,6 +21,7 @@
 [2.我們的資源](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
 [3.我們的日常](https://sggsdatafornehs.github.io/#我們的日常)  
 [4.404頁面](https://sggsdatafornehs.github.io/#404%E9%A0%81%E9%9D%A2)    
+
 ## 心得    
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
 
@@ -42,33 +43,10 @@
   
 <h2 id="404頁面">404頁面<a class="anchorjs-link " href="#404頁面" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>    
  [點我:https://sggsdatafornehs.github.io/404.html](https://sggsdatafornehs.github.io/404.html)   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ <h2 id="講解和教學區">講解和教學區<a class="anchorjs-link " href="#講解和教學區" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>    
+ 數學、物理、化學、資訊放的地方  
+ [點我:https://sggsdatafornehs.github.io/post/sources/info/index](https://sggsdatafornehs.github.io/post/sources/info/index)  
 
- 
- 
-
- 
- 
- 
  <script> 
  ! function() {
     function get_attribute(node, attr, default_value) {
