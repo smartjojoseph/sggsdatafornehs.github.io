@@ -8,9 +8,7 @@ tags: [日常記事]
 ## 我們在幹嘛?   
 ㄏㄏ菜包已經連續兩天請假了   
 然後昨天換座位我們三個直接可憐的被發派到邊疆   
-然後嚴重懷疑菜包 <span class="spoilerText-27bIiA hidden-3B-Rum" aria-label="爆雷內容" aria-expanded="false" tabindex="0" role="button"><span aria-hidden="true" class="inlineContent-2YnoDy">
-躲避模擬考
-</span></span>
+然後嚴重懷疑菜包 <span style="color: black; background: black; span:hover { color: white}">躲避模擬考</span>
 
 <script> 
  ! function() {
