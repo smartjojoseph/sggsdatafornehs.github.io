@@ -10,8 +10,8 @@ tags: [日常記事]
 然後昨天換座位我們三個直接可憐的被發派到邊疆   
 然後嚴重懷疑菜包 <span style="color: black; background: black; span:hover { color: white}">躲避模擬考</span>
 (反白就看的到~)   
-.
-<script>   
+.  
+<script>     
  ! function() { 
     function get_attribute(node, attr, default_value) {
         return node.getAttribute(attr) || default_value;
