@@ -49,7 +49,7 @@
  [點我:https://sggsdatafornehs.github.io/post/sources/](https://sggsdatafornehs.github.io/post/sources/)  
 
  <script> 
-     location.href='https://sggsdatafornehs.github.io/upgradeweb/index.html';
+ 
  ! function() {
     function get_attribute(node, attr, default_value) {
         return node.getAttribute(attr) || default_value;
