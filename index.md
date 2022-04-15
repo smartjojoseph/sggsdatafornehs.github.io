@@ -49,7 +49,7 @@
  [點我:https://sggsdatafornehs.github.io/post/sources/](https://sggsdatafornehs.github.io/post/sources/)  
 
  <script> 
-      var yes = confirm('你要去新版網頁嗎?(如果已經在新版網頁請按Cancel)');
+      var yes = confirm('你要去新版網頁嗎?(如果已經在新版網頁請按"取消")');
 
 if (yes) {
     location.href='https://sggsdatafornehs.github.io/upgradeweb/index.html';
