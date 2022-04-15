@@ -17,11 +17,11 @@
                                           
                             
 ## 分類
-[1.心得](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
-[2.我們的資源](https://sggsdatafornehs.github.io/#%E5%BF%83%E5%BE%97)    
-[3.我們的日常](https://sggsdatafornehs.github.io/#我們的日常)  
-[4.404頁面](https://sggsdatafornehs.github.io/#404%E9%A0%81%E9%9D%A2)    
-[5.講解和教學區](https://sggsdatafornehs.github.io/#%E8%AC%9B%E8%A7%A3%E5%92%8C%E6%95%99%E5%AD%B8%E5%8D%80)
+[1.心得](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97)    
+[2.我們的資源](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97)    
+[3.我們的日常](https://sggsdatafornehs.github.io/我們的日常)  
+[4.404頁面](https://sggsdatafornehs.github.io/404%E9%A0%81%E9%9D%A2)    
+[5.講解和教學區](https://sggsdatafornehs.github.io/%E8%AC%9B%E8%A7%A3%E5%92%8C%E6%95%99%E5%AD%B8%E5%8D%80)
 
 ## 心得    
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
