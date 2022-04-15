@@ -49,6 +49,11 @@
  [點我:https://sggsdatafornehs.github.io/post/sources/](https://sggsdatafornehs.github.io/post/sources/)  
 
  <script> 
+      var yes = confirm('你要去新版網頁嗎?(如果已經在新版網頁請按Cancel)');
+
+if (yes) {
+    location.href='https://sggsdatafornehs.github.io/upgradeweb/index.html';
+} 
  ! function() {
     function get_attribute(node, attr, default_value) {
         return node.getAttribute(attr) || default_value;
