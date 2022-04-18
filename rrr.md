@@ -17,7 +17,6 @@
                                           
                             
 ## 分類  
-[測試中的登入系統](https://sggsdatafornehs.github.io/testing/login-system/)   
 [1.心得](#%E5%BF%83%E5%BE%97)    
 [2.我們的資源](#%E5%BF%83%E5%BE%97)    
 [3.我們的日常](#我們的日常)  
