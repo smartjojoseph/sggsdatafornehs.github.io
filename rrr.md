@@ -27,7 +27,7 @@
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
 
 ## 我們的資源
- [請先登入，點此進入](https://sggsdatafornehs.github.io/testing/login-system/)  
+ [請先登入，點此進入](https://sggsdatafornehs.github.io/upgradeweb/login-system/)  
  
 <h2 id="我們的日常">我們的日常<a class="anchorjs-link " href="#我們的日常" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>  
  [點我https://sggsdatafornehs.github.io/post/daily/index](https://sggsdatafornehs.github.io/post/daily/index)
