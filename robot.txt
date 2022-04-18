@@ -1,5 +1,1 @@
-https://sggsdatafornehs.github.io   
-https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index  
-https://sggsdatafornehs.github.io/404error  
-https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/6
-https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/7
+disallow: https://sggsdatafornehs.github.io/testing/login-system/login.js
