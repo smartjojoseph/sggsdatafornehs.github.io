@@ -8,6 +8,6 @@ alert("請輸入密碼");
 } else if(username.value == "sggs" && pass.value == "1202"){
 window.location.href="welcome.md";
 } else {
-alert("請輸入正確的使用者名稱和密碼！/n工程組在瞪你喔~!")
+alert("請輸入正確的使用者名稱和密碼！工程組在瞪你喔~!")
 }
 }
