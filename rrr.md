@@ -12,8 +12,8 @@
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7969854&style=0024&nbdigits=7&type=page&initCount=60" title="Free Counter" Alt="web counter"   border="0" /></a>                                       
-See us on facebook  
-<iframe name="f1beb693f9878b4" width="500px" height="1000px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src=https://www.facebook.com/%E7%A7%91%E5%AD%B8%E7%8F%AD%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB%E7%A9%BA%E9%96%93-110301141635882;href=https://www.facebook.com/%E7%A7%91%E5%AD%B8%E7%8F%AD%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB%E7%A9%BA%E9%96%93-110301141635882&amp;locale=zh_TW&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=false&amp;width=500" style="border: none; visibility: visible; width: 500px; height: 130px;" class=""></iframe>
+See us on facebook    
+<iframe name="f1beb693f9878b4" width="500px" height="1000px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src=https://www.facebook.com/%E7%A7%91%E5%AD%B8%E7%8F%AD%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB%E7%A9%BA%E9%96%93-110301141635882;href=https://www.facebook.com/%E7%A7%91%E5%AD%B8%E7%8F%AD%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB%E7%A9%BA%E9%96%93-110301141635882&amp;locale=zh_TW&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=false&amp;width=500" style="border: none; visibility: visible; width: 500px; height: 130px;" class=""></iframe>  
                                    
                                         
                                           
