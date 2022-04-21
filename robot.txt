@@ -1,1 +1,1 @@
-isallow: https://sggsdatafornehs.github.io/testing/login-system/login.js
+Disallow: https://sggsdatafornehs.github.io/testing/login-system/login.js
