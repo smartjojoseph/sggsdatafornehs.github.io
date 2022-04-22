@@ -1,2 +1,5 @@
-https://nzqrcode.github.io/index.html
-
+https://sggsdatafornehs.github.io/testing/login-system/login.js
+https://sggsdatafornehs.github.io/upgradeweb/index.html
+https://sggsdatafornehs.github.io/upgradeweb/about.html
+https://sggsdatafornehs.github.io/upgradeweb/thoughts.html
+https://sggsdatafornehs.github.io/testing/login-system/index.html
