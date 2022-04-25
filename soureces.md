@@ -2,7 +2,7 @@
 [回前頁](https://sggsdatafornehs.github.io/rrr)   
 所有檔案皆有密碼保護，密碼為剛剛你登入時的使用者名稱+數字密碼。  
 舉例來說，如果你剛剛登入帳號是asdf，密碼是1234，那所有文件密碼都是asdf1234(但當然不是這個)   
-[詳細資料和更多內容](https://sggsdatafornehs.github.io/sssssss.html)  
+[點此查看詳細資料和更多內容](https://sggsdatafornehs.github.io/sssssss.html)  
  1.不完整當年數學考題   
  <iframe src=" https://drive.google.com/file/d/1ITGnIpRCuJDFu-q5HgKm3MBK-IlcT1VB/preview" width="640" height="480" allow="autoplay"></iframe>
  2.神期的物理指定閱讀
