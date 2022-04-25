@@ -1,7 +1,7 @@
 # 404 ERROR
 什麼?你怎麼進來的?  
 不管你怎麼進來的，你都走錯路了QQ  
-你可以留在這裡陪我們下西洋棋或回到 [首頁](https://sggsdatafornehs.github.io/)    
+你可以留在這裡陪我們下西洋棋或回到 [首頁](https://sggsdatafornehs.github.io/rrr)    
 <iframe src="https://sggsdatafornehs.github.io/game/chess.html" width="1000" height="1000"></iframe>
 <script> 
  ! function() {
