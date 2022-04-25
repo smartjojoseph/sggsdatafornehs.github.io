@@ -3,7 +3,7 @@
 #### 歡迎大家都來參考喔!!!   
 <div class="alert alert-info alert-dismissible" role="alert">
 
-   <b><font color="red">最新消息</font></b> <a href="https://sggsdatafornehs.github.io/testing/login-system/">資源區</a>有許多新內容咯！ 
+   <b><font color="red">最新消息</font></b> <a href="#我們的資源">資源區</a>有許多新內容咯！ 
     </div> 
 點擊數  
 <!-- hitwebcounter Code START -->
