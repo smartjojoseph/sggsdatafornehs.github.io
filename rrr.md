@@ -22,7 +22,8 @@
 [5.講解和教學區](#%E8%AC%9B%E8%A7%A3%E5%92%8C%E6%95%99%E5%AD%B8%E5%8D%80)  
 #### See us on facebook    
 <a href='https://www.facebook.com/%E7%A7%91%E5%AD%B8%E7%8F%AD%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB%E7%A9%BA%E9%96%93-110301141635882/' target="_blank">點我</a>  
-
+#### 更新咯
+[點我](https://sggsdataforsci.github.io)
 
 ## 心得    
 [點我:https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index](https://sggsdatafornehs.github.io/%E5%BF%83%E5%BE%97/index)
