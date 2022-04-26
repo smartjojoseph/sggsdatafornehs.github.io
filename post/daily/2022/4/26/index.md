@@ -3,7 +3,7 @@ title: 2022/4/20日常記事
 date: 2022-4-26 15:16:34
 tags: [日常記事]
 ---
-# 2022/4/20日常記事  
+# 2022/4/26日常記事  
 [回前頁](https://sggsdatafornehs.github.io/post/daily/index)  
 ## 我們在幹嘛?   
 好久沒發文了，發一下  
