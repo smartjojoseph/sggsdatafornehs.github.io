@@ -1,3 +1,6 @@
-Disallow: https://sggsdatafornehs.github.io/testing/login-system/login.js
-Sitemap: https://sggsdatafornehs.github.io/upgradeweb/sitemap.txt
-Sitemap: https://sggsdatafornehs.github.io/upgradeweb/sitemap.txt
+https://sggsdatafornehs.github.io/upgradeweb/index.html
+https://sggsdatafornehs.github.io/upgradeweb/thoughts.html
+https://sggsdatafornehs.github.io/testing/login-system/
+https://sggsdatafornehs.github.io/upgradeweb/about.html
+https://sggsdatafornehs.github.io/upgradeweb/contact.html
+https://sggsdatafornehs.github.io/upgradeweb/alertin.html
